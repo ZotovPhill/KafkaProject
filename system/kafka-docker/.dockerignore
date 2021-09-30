@@ -1,0 +1,7 @@
+.git
+.ipynb_checkpoints/*
+venv
+Dockerfile
+docker-compose.yml
+*.h5
+__pycache__
