@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "kafkaproject"
+version = "0.1.0"
+description = ""
+authors = ["filipp.zotov <f.zotov@datamonsters.com>"]
+
+[tool.poetry.dependencies]
+python = "3.9.*"
+kafka-python = "^2.0.2"
+fastapi = "^0.68.1"
+uvicorn = {extras = ["standard"], version = "^0.15.0"}
+requests = "^2.26.0"
+python-socketio = "^5.4.0"
+fastapi-socketio = "^0.0.8"
+
+[tool.poetry.dev-dependencies]
+black = {version = "^21.8b0", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

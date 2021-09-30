@@ -1,0 +1,162 @@
+{
+    "explains": [],
+    "count": 15,
+    "quotes": [
+        {
+            "exchange": "NMS",
+            "shortname": "Tesla, Inc.",
+            "quoteType": "EQUITY",
+            "symbol": "TSLA",
+            "index": "quotes",
+            "score": 222292.0,
+            "typeDisp": "Equity",
+            "longname": "Tesla, Inc.",
+            "isYahooFinance": true
+        },
+        {
+            "exchange": "GER",
+            "shortname": "TESLA INC",
+            "quoteType": "EQUITY",
+            "symbol": "TL0.DE",
+            "index": "quotes",
+            "score": 20991.0,
+            "typeDisp": "Equity",
+            "longname": "Tesla, Inc.",
+            "isYahooFinance": true
+        },
+        {
+            "exchange": "FRA",
+            "shortname": "TESLA INC",
+            "quoteType": "EQUITY",
+            "symbol": "TL0.F",
+            "index": "quotes",
+            "score": 20774.0,
+            "typeDisp": "Equity",
+            "longname": "Tesla, Inc.",
+            "isYahooFinance": true
+        },
+        {
+            "exchange": "NEO",
+            "shortname": "TESLA, INC. CDR (CAD HEDGED)",
+            "quoteType": "EQUITY",
+            "symbol": "TSLA.NE",
+            "index": "quotes",
+            "score": 20291.0,
+            "typeDisp": "Equity",
+            "longname": "Tesla, Inc.",
+            "isYahooFinance": true
+        },
+        {
+            "exchange": "LSE",
+            "shortname": "GRANITESHARES FINANCIAL PLC GRA",
+            "quoteType": "EQUITY",
+            "symbol": "3LTS.L",
+            "index": "quotes",
+            "score": 20157.0,
+            "typeDisp": "Equity",
+            "longname": "Graniteshares Financial PLC - 3X Long Tesla Daily ETP",
+            "isYahooFinance": true
+        },
+        {
+            "exchange": "MEX",
+            "shortname": "TESLA INC",
+            "quoteType": "EQUITY",
+            "symbol": "TSLA.MX",
+            "index": "quotes",
+            "score": 20130.0,
+            "typeDisp": "Equity",
+            "longname": "Tesla, Inc.",
+            "isYahooFinance": true
+        },
+        {
+            "exchange": "MIL",
+            "shortname": "TESLA",
+            "quoteType": "EQUITY",
+            "symbol": "TSLA.MI",
+            "index": "quotes",
+            "score": 20051.0,
+            "typeDisp": "Equity",
+            "longname": "Tesla, Inc.",
+            "isYahooFinance": true
+        }
+    ],
+    "news": [
+        {
+            "uuid": "58b93eba-c46c-3d57-abaa-bcc36f5e20e6",
+            "title": "Tesla Stock Is Rising for an Odd Reason",
+            "publisher": "Barrons.com",
+            "link": "https://finance.yahoo.com/m/58b93eba-c46c-3d57-abaa-bcc36f5e20e6/tesla-stock-is-rising-for-an.html",
+            "providerPublishTime": 1631030340,
+            "type": "STORY"
+        },
+        {
+            "uuid": "947f6881-3f35-3298-ad93-451b8c3ea750",
+            "title": "Why Tesla Stock Stomped on the Gas Today",
+            "publisher": "Motley Fool",
+            "link": "https://finance.yahoo.com/m/947f6881-3f35-3298-ad93-451b8c3ea750/why-tesla-stock-stomped-on.html",
+            "providerPublishTime": 1631028439,
+            "type": "STORY"
+        },
+        {
+            "uuid": "bf9f65fe-e273-30a4-90a7-cd7f9fbd94e6",
+            "title": "Lithium Ion Battery Market Share 2021, Global Demand, Latest Innovations and Future Demand Forecast till 2028",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/news/lithium-ion-battery-market-share-134600685.html",
+            "providerPublishTime": 1631022360,
+            "type": "STORY"
+        },
+        {
+            "uuid": "ebb0950b-6e03-3577-8995-304422850dd3",
+            "title": "Dow Jones Futures: Why The Market Rally Is So Strong; Tesla Holds Buy Point Despite Bad News",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/ebb0950b-6e03-3577-8995-304422850dd3/dow-jones-futures%3A-why-the.html",
+            "providerPublishTime": 1631011344,
+            "type": "STORY"
+        },
+        {
+            "uuid": "122449e8-b87b-33a5-ae22-63ae3842e91b",
+            "title": "These Are The Best EV Stocks To Buy And Watch Now",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-best-ev-stocks.html",
+            "providerPublishTime": 1631017919,
+            "type": "STORY"
+        },
+        {
+            "uuid": "67378809-ed10-3791-bd33-4dc1b5149e87",
+            "title": "Dow Jones Sells Off As Apple Hits New High; Four Top Growth Stocks To Buy And Watch",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/67378809-ed10-3791-bd33-4dc1b5149e87/dow-jones-sells-off-as-apple.html",
+            "providerPublishTime": 1631029589,
+            "type": "STORY"
+        },
+        {
+            "uuid": "ca8928b8-ce08-3056-8524-3c65cec5b4c6",
+            "title": "Amazon, Tesla Are Among the Companies Moving More Chip Development In-House",
+            "publisher": "GOBankingRates",
+            "link": "https://finance.yahoo.com/news/amazon-tesla-among-companies-moving-145159443.html",
+            "providerPublishTime": 1631026319,
+            "type": "STORY"
+        },
+        {
+            "uuid": "12caa8ab-afad-35a9-b56f-5215d7a13942",
+            "title": "Is Nio Stock A Buy As China's Tesla Plans 3 New EVs In 2022?",
+            "publisher": "Investor's Business Daily",
+            "link": "https://finance.yahoo.com/m/12caa8ab-afad-35a9-b56f-5215d7a13942/is-nio-stock-a-buy-as-china%27s.html",
+            "providerPublishTime": 1631021240,
+            "type": "STORY"
+        }
+    ],
+    "nav": [],
+    "lists": [],
+    "researchReports": [],
+    "screenerFieldResults": [],
+    "totalTime": 26,
+    "timeTakenForQuotes": 421,
+    "timeTakenForNews": 600,
+    "timeTakenForAlgowatchlist": 400,
+    "timeTakenForPredefinedScreener": 400,
+    "timeTakenForCrunchbase": 0,
+    "timeTakenForNav": 400,
+    "timeTakenForResearchReports": 0,
+    "timeTakenForScreenerField": 0
+}

@@ -1,0 +1,30 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  annotations:
+    kompose.cmd: kompose convert
+    kompose.version: 1.22.0 (955b78124)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: kowl
+  name: kowl
+spec:
+  containers:
+    - command:
+        - ./kowl
+        - --config.filepath=/etc/kowl/config.yaml
+      image: quay.io/cloudhut/kowl:v1.4.0
+      name: kowl
+      ports:
+        - containerPort: 8080
+      resources: {}
+      volumeMounts:
+        - mountPath: /etc/kowl/config.yaml
+          name: kowl-claim0
+  hostname: kowl
+  restartPolicy: OnFailure
+  volumes:
+    - name: kowl-claim0
+      persistentVolumeClaim:
+        claimName: kowl-claim0
+status: {}
